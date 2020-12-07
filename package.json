@@ -1,0 +1,13 @@
+{
+  "name": "apod-js",
+  "version": "1.0.0",
+  "description": "An API client for fething NASA's Astronomy Picture Of the Day.",
+  "main": "index.js",
+  "repository": "https://github.com/theRealAyan/apod-js",
+  "author": "theRealAyan <ayanispro420@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
