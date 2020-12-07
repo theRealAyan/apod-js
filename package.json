@@ -1,5 +1,5 @@
 {
-  "name": "apod-js",
+  "name": "nasa-apod-js",
   "version": "1.0.0",
   "description": "An API client for fething NASA's Astronomy Picture Of the Day.",
   "main": "index.js",
