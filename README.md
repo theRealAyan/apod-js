@@ -4,7 +4,7 @@
 ```bash
 $ git clone https://github.com/theRealAyan/apod-js
 $ cd apod-js 
-$ yarn add #you use npm install instead
+$ yarn add #you can use npm install instead
 ```
 ```js
 const apod = require('./apod-js');
