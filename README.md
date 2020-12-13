@@ -10,5 +10,7 @@ $ yarn add #you can use npm install instead
 ```
 ```js
 const apod = require('./apod-js');
-apod.fetch('your-api-key').then(data => console.log(data))
+apod.fetch('your-api-key').then(data => { 
+    console.log(data)
+})  
 ```
